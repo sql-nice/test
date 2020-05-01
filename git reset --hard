@@ -1,0 +1,64 @@
+[33mcommit c83b307c0926c2d0e9eaa9e59ce03b705d6b8d2f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a929893 cf61aa3
+Author: sql-nice <64626384+sql-nice@users.noreply.github.com>
+Date:   Fri May 1 16:25:15 2020 +0800
+
+    Merge pull request #1 from sql-nice/bug2
+    
+    再次修复
+
+[33mcommit cf61aa3266c1f2002ad32f1557e2e47c7c47110b[m[33m ([m[1;31morigin/bug2[m[33m, [m[1;32mbug2[m[33m)[m
+Author: sql-nice <64626384+sql-nice@users.noreply.github.com>
+Date:   Fri May 1 16:08:12 2020 +0800
+
+    再次修复
+    
+    再次修复
+
+[33mcommit a929893035bdb7d8030a590dbcac891dbc39b4ca[m[33m ([m[1;31morigin/bug[m[33m, [m[1;32mbug[m[33m)[m
+Author: sql-nice <64626384+sql-nice@users.noreply.github.com>
+Date:   Fri May 1 15:55:44 2020 +0800
+
+    修复bug
+    
+    修复bug
+
+[33mcommit 8ef624bac045ce92648f4a05621c3b95eeff7aaa[m[33m ([m[1;33mtag: 1.0[m[33m)[m
+Author: sql-nice <64626384+sql-nice@users.noreply.github.com>
+Date:   Fri May 1 15:21:37 2020 +0800
+
+    Update test.txt
+
+[33mcommit 6f51c948d6c411bb8360ef3d68c50a961c90c9dd[m
+Author: sql-nice <64626384+sql-nice@users.noreply.github.com>
+Date:   Fri May 1 15:20:13 2020 +0800
+
+    冲突
+    
+    冲突
+
+[33mcommit bad97df01c9445a05c4a369ee17c7a7581188ccb[m
+Author: sql-nice <64626384+sql-nice@users.noreply.github.com>
+Date:   Fri May 1 15:00:04 2020 +0800
+
+    Update test.txt
+
+[33mcommit ee7b430e0e05665bdc9d1ea90d5b7d86e0b2bc95[m
+Author: sql-nice <64626384+sql-nice@users.noreply.github.com>
+Date:   Fri May 1 14:58:04 2020 +0800
+
+    在test项目中添加一个文件
+    
+    在test项目中添加一个文件
+
+[33mcommit 207edd736acf7d7ba795bda774f31a3f4ee3ae56[m
+Author: sql-nice <64626384+sql-nice@users.noreply.github.com>
+Date:   Fri May 1 14:13:37 2020 +0800
+
+    Create test2
+
+[33mcommit a91e614072077ad7de4f84062c8b9565ad8799ea[m
+Author: sql-nice <64626384+sql-nice@users.noreply.github.com>
+Date:   Fri May 1 14:12:00 2020 +0800
+
+    Create test1
